@@ -10,3 +10,5 @@ TensorFlow is built monolithically with Bazel and rather than clone the entire T
 - build tensorflow
 
 Binaries can then be found in the correspondong Bazel output folder.
+
+![screenshot](screenshot.jpg)
